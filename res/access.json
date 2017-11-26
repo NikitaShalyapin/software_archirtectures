@@ -1,0 +1,23 @@
+{
+    "users" : [
+	{
+	  "access": 2,
+	  "name": "regulator",
+	  "userName": "regulator",
+	  "userPassword": "regulator"
+	},
+	{
+	  "access": 1,
+	  "name": "admin1",
+	  "userName": "admin1",
+	  "userPassword": "admin1"
+	},
+	{
+	  "access": 1,
+	  "name": "admin2",
+	  "userName": "admin2",
+	  "userPassword": "admin2"
+	}
+    ]
+}
+
